@@ -1,0 +1,25 @@
+.root
+{
+    -fx-background-color: #6495ED;
+}
+.text-field
+{
+    -fx-border-radius: 4px;
+    -fx-border-color: cyan;
+    -fx-background-color: transparent;
+}
+.button
+{
+    -fx-background-color: cyan;
+    -fx-background-radius: 100em;
+    -fx-min-width: 60px;
+    -fx-min-height: 60px;
+    -fx-max-width: 130px;
+    -fx-max-height: 60px;
+}
+.button:hover
+{
+    -fx-background-color: transparent;
+    -fx-border-radius: 100em;
+    -fx-border-color: cyan;
+}

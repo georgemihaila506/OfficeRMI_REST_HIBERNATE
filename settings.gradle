@@ -1,0 +1,9 @@
+rootProject.name = 'OfficeTransport'
+include 'Domain'
+include 'Repository'
+include 'Service'
+include 'Hibernate'
+include 'REST'
+include 'RMIServer'
+include 'Utils'
+

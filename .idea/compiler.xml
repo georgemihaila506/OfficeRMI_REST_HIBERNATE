@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Domain_main" target="1.8" />
+      <module name="Domain_test" target="1.8" />
+      <module name="Hibernate_main" target="1.8" />
+      <module name="Hibernate_test" target="1.8" />
+      <module name="OfficeTransport_main" target="1.8" />
+      <module name="OfficeTransport_test" target="1.8" />
+      <module name="Repository_main" target="1.8" />
+      <module name="Repository_test" target="1.8" />
+      <module name="REST_main" target="1.8" />
+      <module name="REST_test" target="1.8" />
+      <module name="RMIServer_main" target="1.8" />
+      <module name="RMIServer_test" target="1.8" />
+      <module name="Service_main" target="1.8" />
+      <module name="Service_test" target="1.8" />
+      <module name="Utils_main" target="1.8" />
+      <module name="Utils_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

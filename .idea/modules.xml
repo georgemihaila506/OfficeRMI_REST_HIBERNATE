@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Domain.iml" filepath="$PROJECT_DIR$/.idea/modules/Domain.iml" group="Domain" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Domain/Domain_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Domain/Domain_main.iml" group="Domain" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Domain/Domain_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Domain/Domain_test.iml" group="Domain" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Hibernate.iml" filepath="$PROJECT_DIR$/.idea/modules/Hibernate.iml" group="Hibernate" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Hibernate/Hibernate_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Hibernate/Hibernate_main.iml" group="Hibernate" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Hibernate/Hibernate_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Hibernate/Hibernate_test.iml" group="Hibernate" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/OfficeTransport.iml" filepath="$PROJECT_DIR$/.idea/modules/OfficeTransport.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/OfficeTransport_main.iml" filepath="$PROJECT_DIR$/.idea/modules/OfficeTransport_main.iml" group="OfficeTransport" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/OfficeTransport_test.iml" filepath="$PROJECT_DIR$/.idea/modules/OfficeTransport_test.iml" group="OfficeTransport" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/REST.iml" filepath="$PROJECT_DIR$/.idea/modules/REST.iml" group="REST" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/REST/REST_main.iml" filepath="$PROJECT_DIR$/.idea/modules/REST/REST_main.iml" group="REST" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/REST/REST_test.iml" filepath="$PROJECT_DIR$/.idea/modules/REST/REST_test.iml" group="REST" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RMIServer.iml" filepath="$PROJECT_DIR$/.idea/modules/RMIServer.iml" group="RMIServer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RMIServer/RMIServer_main.iml" filepath="$PROJECT_DIR$/.idea/modules/RMIServer/RMIServer_main.iml" group="RMIServer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RMIServer/RMIServer_test.iml" filepath="$PROJECT_DIR$/.idea/modules/RMIServer/RMIServer_test.iml" group="RMIServer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Repository.iml" filepath="$PROJECT_DIR$/.idea/modules/Repository.iml" group="Repository" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Repository/Repository_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Repository/Repository_main.iml" group="Repository" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Repository/Repository_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Repository/Repository_test.iml" group="Repository" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Service.iml" filepath="$PROJECT_DIR$/.idea/modules/Service.iml" group="Service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Service/Service_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Service/Service_main.iml" group="Service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Service/Service_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Service/Service_test.iml" group="Service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Utils.iml" filepath="$PROJECT_DIR$/.idea/modules/Utils.iml" group="Utils" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Utils/Utils_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Utils/Utils_main.iml" group="Utils" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Utils/Utils_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Utils/Utils_test.iml" group="Utils" />
+    </modules>
+  </component>
+</project>
